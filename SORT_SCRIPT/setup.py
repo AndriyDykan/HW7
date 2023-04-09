@@ -10,5 +10,5 @@ setuptools.setup(
     author='MIRAN',
     author_email='andriy.dykanan@gmail.com',
     description='sort script for dir',
-    entry_points={'console_scripts':['sort = src.main:main']}
+    entry_points={'console_scripts':['sortHW7 = src.main:main']}
 )
