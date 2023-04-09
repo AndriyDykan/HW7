@@ -1,2 +1,2 @@
 [console_scripts]
-sort = src.main:main
+sortHW7 = src.main:main
